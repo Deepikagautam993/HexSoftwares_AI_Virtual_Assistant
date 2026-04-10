@@ -22,14 +22,14 @@ The application provides a simple and interactive graphical interface that allow
 
 ## ✨ Features
 
-✔️ Interactive Chat Interface
-✔️ Responds to Greetings (Hi / Hello)
-✔️ Displays Current Time
-✔️ Add Reminders
-✔️ Show Saved Reminders
-✔️ Clear Chat Function
-✔️ User-Friendly GUI
-✔️ Persistent Data Storage
+✔️ Interactive Chat Interface 
+✔️ Responds to Greetings (Hi / Hello) 
+✔️ Displays Current Time 
+✔️ Add Reminders 
+✔️ Show Saved Reminders 
+✔️ Clear Chat Function 
+✔️ User-Friendly GUI 
+✔️ Persistent Data Storage 
 
 ---
 
@@ -115,7 +115,7 @@ Through this project, the following concepts were implemented:
 ## 👩‍💻 Author
 
 **Deepika Gautam**
-B.Tech – Artificial Intelligence & Machine Learning
+B.Tech – Artificial Intelligence & Machine Learning 
 Baderia Global Institute of Engineering and Management
 
 ---
